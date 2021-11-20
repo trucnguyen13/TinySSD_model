@@ -8,4 +8,4 @@ Respectively
 - predict.py
 
 References:
-- https://www.d2l.ai/chapter_computer-vision/
+- https://www.d2l.ai/chapter_computer-vision/ssd.html
