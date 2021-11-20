@@ -1,12 +1,11 @@
 # TinySSD_model
 
 
-Respectively
 - lib.py
 - prepare_data.py
 - train.py
 - predict.py
-respectively
+- respectively
 
 
 References:
